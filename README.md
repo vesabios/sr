@@ -1,0 +1,4 @@
+sr
+==
+
+smart groups test
